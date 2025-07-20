@@ -1,14 +1,14 @@
-# [Your Full Name] - CV Repository
+# Sebastian Numpaque - CV Repository
 
-Welcome to my CV repository! This repository contains my professional curriculum vitae, showcasing my experience as an astronomer with expertise in astronomical data analysis and software development. 
-
-The CV is written in Markdown (`README.md`) and highlights my skills, projects, and qualifications relevant to roles in software companies specializing in astronomical data.
+Welcome to my CV repository! This repository contains my professional curriculum vitae, showcasing my experience as an undergraduate Astronomy student at the University of Antioquia with expertise in exoplanetary science, computational tool development, and astronomy outreach. The CV highlights my skills in Python-based software development, collaborative development, and scientific research, relevant to roles in software companies specializing in astronomical data.
 
 ## Access My CV
-- **Markdown Version**: View this `README.md` file for the full CV.
-- **Web Version**: Visit [https://yourusername.github.io/astronomer-cv](https://yourusername.github.io/astronomer-cv) for a formatted version via GitHub Pages (if enabled).
+- **Markdown Version**: View `cv_english.md` or `cv_spanish.md` for the full CV in English or Spanish, respectively, in this repository.
+- **Web Version**: Visit [https://numpaque4.github.io/astronomer-cv](https://numpaque4.github.io/astronomer-cv) for a formatted version via GitHub Pages.
+- **PDF Version**: Download the CV as a PDF at [https://numpaque4.github.io/CV_Sebastian_Numpaque.pdf](https://numpaque4.github.io/CV_Sebastian_Numpaque.pdf).
 
 ## Contact
-- **Email**: [your.email@example.com]
-- **GitHub**: [link to your GitHub profile]
-- **LinkedIn**: [link to your LinkedIn profile]
+- **Email**: [david.rodriguez1@udea.edu.co](mailto:david.rodriguez1@udea.edu.co)
+- **GitHub**: [https://github.com/Numpaque4](https://github.com/Numpaque4)
+- **LinkedIn**: [https://www.linkedin.com/in/sebastian-numpaque-b257072a6](https://www.linkedin.com/in/sebastian-numpaque-b257072a6)
+- **ORCID**: [https://orcid.org/0009-0000-5697-3416](https://orcid.org/0009-0000-5697-3416)
