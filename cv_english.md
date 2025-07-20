@@ -1,62 +1,99 @@
-# [Your Full Name] - Curriculum Vitae
+---
+title: "Sebastián Numpaque – Curriculum Vitae"
+layout: page
+permalink: /cv.html
+---
+
+
+# Sebastian Numpaque - Curriculum Vitae
 
 ## About Me
-I am an astronomer with expertise in [fill in your areas of expertise, e.g., astronomical data analysis, computational modeling, telescope observations]. Passionate about leveraging software and data analysis techniques to advance astronomical research. I aim to contribute my skills in [list relevant skills, e.g., Python, SQL, machine learning] to innovative projects at [company name or "a software company specializing in astronomical data"].
+Undergraduate student in Astronomy at the University of Antioquia. Young Researcher Intern in the FACom and SEAP research groups, focusing on exoplanetary science.  Coordinator and Co-founder of the Astrophysics Research Training Program. Organizational Manager at AstrodidaXis Foundation for Astronomy Education. I have made contributions in the design and development of scientific and computational tools, as well as in the publication of scientific papers and organization of science outreach activities.
 
 ## Contact
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [link to your LinkedIn profile]
-- **GitHub**: [link to your GitHub profile]
-- **Phone**: [your phone number, optional]
-
-## Professional Experience
-### [Job Title] - [Institution or Company Name]
-**[City, Country] | [Month Year] - [Month Year or "Present"]**
-- [Description of key responsibilities or achievements, e.g., Developed data pipelines to process telescope images using Python and Pandas.]
-- [Another achievement or responsibility, e.g., Collaborated on a team to model spectroscopic data using machine learning algorithms.]
-- [Another achievement, e.g., Published a paper in [name of scientific journal].]
-
-### [Job Title] - [Institution or Company Name]
-**[City, Country] | [Month Year] - [Month Year]**
-- [Description of key responsibilities or achievements.]
-- [Another achievement or responsibility.]
-- [Another achievement, if applicable.]
+- **Email**: \[david.rodriguez1@udea.edu.co\]
+- **GitHub**: \[https://github.com/Numpaque4\]
+- **ORCID**: \[https://orcid.org/0009-0000-5697-3416\]
+- **LinkedIn**: \[www.linkedin.com/in/sebastian-numpaque-b257072a6\]
 
 ## Education
-### [Degree, e.g., Ph.D. in Astronomy] - [University Name]
-**[City, Country] | [Month Year] - [Month Year]**
-- [Thesis or notable project, e.g., Thesis: "Analysis of exoplanet data using deep learning techniques."]
-- [Optional: Mention relevant coursework or academic achievements.]
+- **Astronomy Undergraduate Programme**, University of Antioquia, Medellín, Colombia — *2021 – Present*
 
-### [Degree, e.g., B.Sc. in Physics] - [University Name]
-**[City, Country] | [Month Year] - [Month Year]**
-- [Thesis or notable project, if applicable.]
+### Complementary Courses
+- Exoplanets (University of Geneva - Coursera, 2024)  
+- Data Mining (Pontificia Universidad Católica de Chile - Coursera, 2021)  
+- Introduction to AI (DeepLearning.AI - Coursera, 2021)
+- Formulación de Proyectos de Investigación (Vicerrectoría de Investigación, Universidad de Antioquia, 2025)
 
-## Technical Skills
-- **Programming Languages**: [e.g., Python, C++, R, Julia]
-- **Tools and Libraries**: [e.g., Pandas, NumPy, Astropy, TensorFlow, SQL]
-- **Astronomical Software**: [e.g., IRAF, CASA, TOPCAT]
-- **Other**: [e.g., Git, Docker, big data analysis, data visualization]
+## Skills
+- Software Development (Python)  
+- Object‑Oriented Programming  
+- Collaborative Development (Git, GitHub)  
+- API Documentation (ReadTheDocs, Sphinx)  
+- Linux System Management
+- Statistics & Data Science  
+- Physical‑Mathematical Modelling & Simulation  
+- Scientific Research & Outreach  
+- Project Design & Management
+
+## Experience
+### FACom & SEAP Groups, University of Antioquia — Young Researcher Intern (2024 – 2025)
+- Development of scientific packages based on Python  
+- Open-source version control management on GitHub  
+- Software testing and documentation  
+- Implementation of packages for exoplanetary research
+- Co‑developer of the package *Pryngles* - <https://github.com/seap-udea/pryngles>  
+
+### AstrodidaXis Network Foundation, Boyacá, Colombia | 2023 - Present
+- Research project management
+- Planning and execution of academic and outreach events
+- Coordination of initiatives to strengthen the foundation’s visibility and impact.
+- Impact of local communities in Boyacá
 
 ## Featured Projects
-### [Project Name]
-- **Description**: [Brief project description, e.g., Developed a Python pipeline to process data from [telescope/instrument].]
-- **Technologies Used**: [e.g., Python, Astropy, PostgreSQL]
-- **Link**: [link to GitHub repository or publication, if applicable]
 
-### [Project Name]
-- **Description**: [Brief project description.]
-- **Technologies Used**: [e.g., MATLAB, machine learning]
-- **Link**: [link to repository or publication, if applicable]
+### Pryngles
+Co-developed a Python package for simulating exoplanet transit light curves, supporting research in exoplanetary science.  
+[Project Link](https://github.com/seap-udea/pryngles)
+
+### Astrophysics Research Training Program
+Co-founded and coordinates a training program for undergraduate students in astrophysics research, focusing on computational, communication, and scientific skills.
+
+### Offered Workshops and Courses
+- Explorando Mundos Distantes: Detección de Exoplanetas y la Zona Habitable
+    - AstrodidaXis Network Foundation | 2024
+    - 27° Astronomy Fest, Villa de Leyva, Colombia | 2024
+    - Luis Carlos Galán Sarmiento School, Villavicencio, Colombia | 2024
+- AstrodidaXis Young Course on Astrophysics | 2025
+
+### Speaker
+- **VIII Congreso Colombiano de Astronomía y Astrofísica (CoCoA) 2024** 
+    - *A Python Package for Modelling the Photometric Signatures of Exoplanetary Rings/Satellites* 
+- **III Congreso Internacional de Educación Ambiental Comunitaria 2024**
+    - *Explorando la Contribución de la Astronomía a los Objetivos de Desarrollo Sostenible y el Empoderamiento Comunitario en Boyacá
+
+### Assistant 
+- VII Congreso Colombiano de Astronomía y Astrofísica (CoCoA) | 2022
+- II Congreso Iberoamericano de Estudiantes de Física (CIEF) | 2023
+
+### Organizer Comitte’s Member
+- II & III Workshop on Astronomy Education. OAE - Colombia, AstrodidaXis, UPTC | 2023, 2025
 
 ## Publications
-- [Publication Title, e.g., "Discovery of Exoplanets Using Neural Networks"], [Journal Name], [Year].
-- [Another publication, if applicable.]
+ - Artificial Intelligence in the Teaching of Natural Sciences on the Threshold of the Fifth Industrial Revolution. Explainable AI for Education: Recent Trends and Challenges. 2024 | Book chapter. DOI: 10.1007/978-3-031-72410-7_9
+- Aportes de la Astronomía y su enseñanza a los Objetivos de Desarrollo Sostenible, caso AstrodidaXis (Paper Submitted). Góndola, Enseñanza y Aprendizaje de las Ciencias ISSN: 2665-3303 | 2025
+- Explorando Mundos Distantes: Taller en Detección de Exoplanetas. Circular Astronómica No. 999, Red de Astronomía de Colombia (RAC) | 2024. rac.net.co/wp-content/uploads/2024/05/Circular-mayo-2024.pdf
 
 ## Languages
-- [Language 1]: [Level, e.g., Native, Advanced, Intermediate]
-- [Language 2]: [Level]
+| Language | Level |
+|----------|-------|
+| Spanish  | Native |
+| English  | B2    |
 
 ## Certifications
-- [Certification Name, e.g., Machine Learning for Astronomy, Coursera], [Year].
-- [Another certification, if applicable.]
+- To see all the current certifications, please see <[Certifications](https://github.com/Numpaque4/numpaque4.github.io/tree/main/certificates)>
+
+
+---
+
+<p style="text-align:center;font-size:0.8rem;">© 2025 Sebastián Numpaque — CC‑BY‑SA 4.0</p>
