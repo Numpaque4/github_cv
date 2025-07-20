@@ -4,8 +4,8 @@ Welcome to my CV repository! This repository contains my professional curriculum
 
 ## Access My CV
 - **Markdown Version**: View `cv_english.md` or `cv_spanish.md` for the full CV in English or Spanish, respectively, in this repository.
-- **Web Version**: Visit [https://numpaque4.github.io/astronomer-cv](https://numpaque4.github.io/astronomer-cv) for a formatted version via GitHub Pages.
-- **PDF Version**: Download the CV as a PDF at [https://numpaque4.github.io/CV_Sebastian_Numpaque.pdf](https://numpaque4.github.io/CV_Sebastian_Numpaque.pdf).
+- **Web Version**: Visit [https://numpaque4.github.io/](https://numpaque4.github.io/) for a formatted version via GitHub Pages.
+- **PDF Version**: Download the CV as a PDF at [https://numpaque4.github.io/cv_canva.pdf](https://numpaque4.github.io/cv_canva.pdf).
 
 ## Contact
 - **Email**: [david.rodriguez1@udea.edu.co](mailto:david.rodriguez1@udea.edu.co)
